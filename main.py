@@ -28,7 +28,7 @@ from telegram.request import HTTPXRequest
 # SETTINGS
 # =========================================================
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "").strip()
-TOKEN = "9201939195:AAGZW45Au8w16qL4tvvdbXIYZaxzQFEBG2w"
+TOKEN = "9201939195:AAFX9HaIQnkZWnmcNaMYLolsLJ5wsm6hoPY"
 ADMIN_ID = 7215059470
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 CONFIG_FILE = os.path.join(BASE_DIR, "bot_config.json")
